@@ -1,0 +1,26 @@
+ktor:
+  application:
+    modules:
+      - org.example.project.ApplicationKt.module
+  deployment:
+    port: 8080
+    host: 0.0.0.0
+
+jwt:
+  secret: "your-super-secret-key-change-in-production"
+  issuer: "guardianx-api"
+  audience: "guardianx-users"
+  realm: "GuardianX"
+  expirationMinutes: 10080
+
+mongodb:
+  connectionString: "mongodb+srv://emmanuelfredrick66_db_user:hRiFc11v4P8ORNxb@cluster0.zlv7r2s.mongodb.net/?appName=Cluster0"
+  database: "guardianx"
+
+smtp:
+  host: "smtp.gmail.com"
+  port: 587
+  username: "emmanuelfredrick66@gmail.com"
+  password: "blriwwbltdliyukw"
+  fromEmail: "noreply@guardianx.com"
+  fromName: "GuardianX Safety"
