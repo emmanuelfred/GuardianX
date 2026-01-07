@@ -71,15 +71,8 @@ This project focuses on **real-world impact** and **social good**.
 ## Demo
 
 🎥 **Demo Video**  
-![Watch GuardianX Demo](https://youtu.be/DKQ1uWWRDsY)
+![Watch GuardianX Demo](https://youtu.be/DKQ1uWWRDsY?si=GacmLW9thkp-0C_1)
 
-📸 **Screenshots**
-- Home Screen
-- SOS Activation
-- Live Location Map
-- Trusted Contacts
-
-(Add screenshots inside the `assets/` folder)
 
 ---
 
