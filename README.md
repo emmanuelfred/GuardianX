@@ -71,7 +71,7 @@ This project focuses on **real-world impact** and **social good**.
 ## Demo
 
 🎥 **Demo Video**  
-[Watch GuardianX Demo](https://youtu.be/DKQ1uWWRDsY)
+![Watch GuardianX Demo](https://youtu.be/DKQ1uWWRDsY)
 
 📸 **Screenshots**
 - Home Screen
