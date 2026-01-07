@@ -74,6 +74,9 @@ This project focuses on **real-world impact** and **social good**.
 ![Watch GuardianX Demo](https://youtu.be/DKQ1uWWRDsY?si=GacmLW9thkp-0C_1)
 
 
+[![Watch the GuardianX Demo](https://img.youtube.com/vi/DKQ1uWWRDsY/0.jpg)](https://youtu.be/DKQ1uWWRDsY)
+
+
 ---
 
 ## Tech Stack
